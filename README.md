@@ -1,5 +1,5 @@
-# Hi, I'm recursive-prodigy 👋
-*(yes, to understand this profile you must first understand this profile)*
+# Recursive-Prodigy
+> A function that keeps calling itself until it figures out the missing piece.
 
 🎓 CS engineering student
 🔐 Into cybersecurity — Google Cybersecurity Certificate + TryHackMe
